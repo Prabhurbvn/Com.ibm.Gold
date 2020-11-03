@@ -1,0 +1,5 @@
+Com\ibm\Gold\Utils\Testutil.class
+Com\ibm\Gold\Pages\SignupPage.class
+Com\ibm\Gold\Base\Testbase.class
+Com\ibm\Gold\Pages\InboxPage.class
+Com\ibm\Gold\Pages\LoginPage.class
